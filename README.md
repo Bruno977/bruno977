@@ -14,13 +14,9 @@
 
 
 
-<br><br>
-<a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno977&theme=dracula">
-</a>
-<a href="https://github.com/ankitwarbhe">
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno977&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
-</a>
+
 
 
 
