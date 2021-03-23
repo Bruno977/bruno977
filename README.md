@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Bruno Rodrigues!](https://ankitwarbhe.github.io) 
+## Hi 👋, I'm [Bruno Rodrigues!](https://github.com/bruno977) 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-rodrigues-78416319b/ "Connect via Linkedin") 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bruunoo.rodrigues/ "Connect via Instagram") 
@@ -14,9 +14,9 @@
 
 
 
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno977&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
-
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno977&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
+</p>
 
 
 
